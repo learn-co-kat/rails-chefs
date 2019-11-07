@@ -1,0 +1,4 @@
+<h1>HELLOOOOOOO cooks</h1>
+<%@cooks.each do |cook|%>
+<li><%=link_to cook.name, cook_path(cook)%></li>
+<%end%>
