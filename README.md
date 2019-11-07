@@ -1,25 +1,18 @@
-# README
+# CHEFS 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Your very own rails restaurant manager!
 
 Things you may want to cover:
 
-* Ruby version
+* Routing
 
-* System dependencies
+* Relationships
 
-* Configuration
+* Migrations
 
-* Database creation
+* Full CRUD
 
-* Database initialization
+* Forms
 
-* How to run the test suite
+* Buttons?
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-#rails-chefs
